@@ -5,6 +5,8 @@ Free for commercial use Ninite alternative.
 # How to use
 Login to the web app using 
   
+  https://bfornalczyk.eu/psai
+
   test@test.com 
   test
   
