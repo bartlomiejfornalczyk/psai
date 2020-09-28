@@ -1,5 +1,5 @@
 # psai
-PHP generator for Powershell to download and install apps in the background (silent mode). 
+PHP Powershell script generator for downloading and installing apps in the background (silent mode). 
 Free for commercial use Ninite alternative.
 
 # How to use
